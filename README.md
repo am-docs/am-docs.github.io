@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, R, STATA, SQL, AWS
+#### Technical Skills: Python, R, STATA, SQL, Tableau, AWS
 
 ## Education 			        		
 - B.A., Economics | Florida International University (_2015_)
