@@ -18,7 +18,15 @@
 - Improved system uptime to 99.9% by proactively monitoring and optimizing AWS EC2 environments, supporting uninterrupted client access to the analytics platform.
 
 ## Portfolio Projects
-### Marketing Promotion Analysis using Multiple Linear Regression
+### Automatidata - NYC Taxi (Multiple Linear Regression)
+[View Project](https://github.com/am-docs/projects/tree/main/automatidata)
+
+Developed a **multiple linear regression** model in **Python** to predict NYC taxi fare amounts based on trip data collected over a one-year period. Conducted exploratory data analysis, data cleaning, and A/B testing to refine features and validate assumptions. The model incorporated variables such as trip distance, time of day, and passenger count to estimate fare pricing with improved accuracy. This analysis provided the New York City Taxi and Limousine Commission (TLC) with a data-driven tool to better understand fare dynamics and support future pricing strategies.
+
+![Fare Amount x Mean Distance](/assets/img/fare_amount_mean_dist.jpeg)
+
+## Micro Projects
+### Multiple Linear Regression
 [View Project](https://github.com/am-docs/projects/tree/main/mul_lin_reg)
 
 Analyzed the impact of multiple marketing promotions on sales using a multiple linear regression model in **Python**, leveraging packages like **statsmodels** and **seaborn**. The analysis identified statistically significant predictors and quantified their effects on sales, revealing that certain promotional types drove up to 30% more sales than others. This data-driven approach provided actionable insights for optimizing marketing spend and enabled stakeholders to make evidence-based campaign decisions.
@@ -32,7 +40,7 @@ Applied a one-way **ANOVA** and **post hoc tests** to determine whether signific
 
 ![ANOVA Testing Between Groups](/assets/img/anova_boxplot.jpeg)
 
-### Airline Pax Satisfaction Analysis - Logistic Regression
+### Logistic Regression
 [View Project](https://github.com/am-docs/projects/tree/main/logistic_reg)
 
 Constructed a **binomial logistic regression** model using Python to predict customer satisfaction based on in-flight entertainment ratings and related flight experience data. Conducted exploratory data analysis, data cleaning, and transformation on a dataset of over 129,000 airline passengers. The model evaluated the likelihood of customer satisfaction using one key predictor, and was assessed using a **confusion matrix** to validate accuracy. This project demonstrated the practical application of logistic regression for binary classification and provided actionable insights to improve customer experience strategy in the airline industry.
