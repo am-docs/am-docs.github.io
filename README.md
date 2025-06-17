@@ -18,12 +18,12 @@
 - Improved system uptime to 99.9% by proactively monitoring and optimizing AWS EC2 environments, supporting uninterrupted client access to the analytics platform.
 
 ## Portfolio Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[View Project](https://www.mdpi.com/1424-8220/22/8/3048)
+### Marketing Promotion Analysis using Multiple Linear Regression
+[View Project](https://github.com/am-docs/projects/tree/main/mul_lin_reg)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Analyzed the impact of multiple marketing promotions on sales using a multiple linear regression model in **Python**, leveraging packages like **statsmodels** and **seaborn**. The analysis identified statistically significant predictors and quantified their effects on sales, revealing that certain promotional types drove up to 30% more sales than others. This data-driven approach provided actionable insights for optimizing marketing spend and enabled stakeholders to make evidence-based campaign decisions.
 
-![EEG Band Discovery](/assets/img/chart1.jpeg)
+![Marketing Promotion Relationships](/assets/img/mlr_pairplot.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [View Project](https://www.mdpi.com/1424-8220/22/11/4240)
