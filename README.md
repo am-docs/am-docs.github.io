@@ -25,12 +25,12 @@ Analyzed the impact of multiple marketing promotions on sales using a multiple l
 
 ![Marketing Promotion Relationships](/assets/img/mlr_pairplot.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[View Project](https://www.mdpi.com/1424-8220/22/11/4240)
+### Hypothesis Testing (ANOVA)
+[View Project](https://github.com/am-docs/projects/tree/main/hypothesis_testing)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Applied a one-way **ANOVA** and **post hoc tests** to determine whether significant differences existed among promotion types. This approach provided clear evidence of variation in promotional effectiveness between groups, enabling stakeholders to make data-driven budget allocation decisions. The analysis combined visualizations, model validation, and plain-language interpretation to support actionable business insights.
 
-![Bike Study](/assets/img/chart2.jpeg)
+![ANOVA Testing Between Groups](/assets/img/anova_boxplot.jpeg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
