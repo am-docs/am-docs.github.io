@@ -19,7 +19,7 @@
 
 ## Portfolio Projects
 ### Automatidata - NYC Taxi (Multiple Linear Regression)
-[View Project](https://github.com/am-docs/projects/tree/main/automatidata)
+[View Project](https://github.com/am-docs/projects/tree/main/automatidata/automatidata_linear_reg.ipynb)
 
 Developed a **multiple linear regression** model in **Python** to predict NYC taxi fare amounts based on trip data collected over a one-year period. Conducted exploratory data analysis, data cleaning, and A/B testing to refine features and validate assumptions. The model incorporated variables such as trip distance, time of day, and passenger count to estimate fare pricing with improved accuracy. This analysis provided the New York City Taxi and Limousine Commission (TLC) with a data-driven tool to better understand fare dynamics and support future pricing strategies.
 
@@ -27,21 +27,21 @@ Developed a **multiple linear regression** model in **Python** to predict NYC ta
 
 ## Micro Projects
 ### Multiple Linear Regression
-[View Project](https://github.com/am-docs/projects/tree/main/mul_lin_reg)
+[View Project](https://github.com/am-docs/projects/tree/main/mul_lin_reg/multiple linear regression.ipynb)
 
 Analyzed the impact of multiple marketing promotions on sales using a multiple linear regression model in **Python**, leveraging packages like **statsmodels** and **seaborn**. The analysis identified statistically significant predictors and quantified their effects on sales, revealing that certain promotional types drove up to 30% more sales than others. This data-driven approach provided actionable insights for optimizing marketing spend and enabled stakeholders to make evidence-based campaign decisions.
 
 ![Marketing Promotion Relationships](/assets/img/mlr_pairplot.jpeg)
 
 ### Hypothesis Testing (ANOVA)
-[View Project](https://github.com/am-docs/projects/tree/main/hypothesis_testing)
+[View Project](https://github.com/am-docs/projects/tree/main/hypothesis_testing/hypothesis_testing.ipynb)
 
 Applied a one-way **ANOVA** and **post hoc tests** to determine whether significant differences existed among promotion types. This approach provided clear evidence of variation in promotional effectiveness between groups, enabling stakeholders to make data-driven budget allocation decisions. The analysis combined visualizations, model validation, and plain-language interpretation to support actionable business insights.
 
 ![ANOVA Testing Between Groups](/assets/img/anova_boxplot.jpeg)
 
 ### Logistic Regression
-[View Project](https://github.com/am-docs/projects/tree/main/logistic_reg)
+[View Project](https://github.com/am-docs/projects/tree/main/logistic_reg/logistic_regression.ipynb)
 
 Constructed a **binomial logistic regression** model using Python to predict customer satisfaction based on in-flight entertainment ratings and related flight experience data. Conducted exploratory data analysis, data cleaning, and transformation on a dataset of over 129,000 airline passengers. The model evaluated the likelihood of customer satisfaction using one key predictor, and was assessed using a **confusion matrix** to validate accuracy. This project demonstrated the practical application of logistic regression for binary classification and provided actionable insights to improve customer experience strategy in the airline industry.
 
