@@ -25,7 +25,21 @@ Developed a **multiple linear regression** model in **Python** to predict NYC ta
 
 ![Fare Amount x Mean Distance](/assets/img/fare_amount_mean_dist.jpeg)
 
+### Tik Tok Project (Logistic Regression)
+[View Project](https://github.com/am-docs/projects/tree/main/tik_tok/tik_tok_project.ipynb)
+
+Conducted logistic regression analysis in Python to explore the relationship between video features and user verification status on TikTok. The project aimed to support the development of a machine learning model capable of distinguishing between claim-based and opinion-based content. Through exploratory data analysis, hypothesis testing, and feature engineering, the model identified key predictors of verification status, such as engagement metrics and content characteristics.
+
+![Correlation Heatmap](/assets/img/correlation_heatmap.jpeg)
+
 ## Micro Projects
+### Interactive Performance Dashboard (Tableau)
+[View Project](https://public.tableau.com/views/InteractivePerformanceDashboard_17502559031740/PerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Designed an interactive dashboard in **Tableau** to visualize and analyze sales performance using the Superstore dataset. The dashboard integrates key performance indicators (KPIs) such as sales, profit, and order quantity, segmented by region, category, and sub-category. By incorporating dynamic filters and drill-down capabilities, the tool enables users to explore trends, identify underperforming segments, and monitor profitability across product lines and geographies. This solution empowers business stakeholders with actionable insights to support data-informed decisions around inventory, marketing, and strategic planning.
+
+![Tableau Interactive Dashboard](/assets/img/tableau_dashboard.jpeg)
+
 ### Multiple Linear Regression
 [View Project](https://github.com/am-docs/projects/tree/main/mul_lin_reg/multiple linear regression.ipynb)
 
