@@ -61,3 +61,10 @@ Constructed a **binomial logistic regression** model using Python to predict cus
 
 ![Airline Pax Satisfaction Probability](/assets/img/satisfaction_prob.jpeg)
 
+### Gaussian Naives Bayes
+[View Project](https://github.com/am-docs/projects/tree/main/nba/nba_naives_bayes.ipynb)
+
+Developed a **supervised machine learning** model to determine whether an NBA player is likely to have a career lasting five years or more. This initiative supported the league’s interest of identifying and retaining athletes who can thrive in a high-pressure, long-term professional environment. After conducting exploratory analysis and feature engineering on NBA player performance data, we identified key variables that contribute to career longevity. These insights were applied to train a classification model that can help predict long-term player success.
+
+![NBA Player Career Lenght Confusion Matrix](/assets/img/nba_confusion_matrix.jpeg)
+
