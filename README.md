@@ -68,3 +68,9 @@ Developed a **supervised machine learning** model to determine whether an NBA pl
 
 ![NBA Player Career Lenght Confusion Matrix](/assets/img/nba_confusion_matrix.jpeg)
 
+### Hotel Reservations Data Exploration (SQL)
+[View Project](https://github.com/am-docs/projects/tree/main/hotel_reservations_SQL/hotel_reservations.sql)
+
+Performed comprehensive data exploration using SQL to analyze hotel reservation patterns and guest behavior. The objective was to uncover insights that could inform pricing strategy, cancellation policies, and guest segmentation. Leveraged advanced **SQL skills including joins, CTEs, temp tables, window functions, aggregate functions, data type conversions**, and **views** to clean, transform, and structure the reservation data. This type of analysis enables the identification of key trends such as booking lead time, guest composition, and cancellation revenue, which support more data-driven decision-making in hotel revenue management.
+
+![Hotel Reservations Running Stay Total](/assets/img/res_runnning_stay_total.jpeg)
