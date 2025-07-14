@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Science Portfolio
 
 #### Technical Skills: Python, R, STATA, SQL, Tableau, AWS
 
@@ -9,7 +9,7 @@
 - Google Advanced Data Analytics | Coursera (_2025_)
 
 ## Latest Work Experience
-**Managing Partner & Co-Founder @ Hotelitix (_Jan 2019 - Present_)**
+**Managing Partner & Co-Founder @ Hotelitix (_Jan 2019 - Jun 2025_)**
 - Architected the company’s core SaaS product from concept to launch, integrating data pipelines, forecasting algorithms, pricing models, and dashboard visualizations. 
 - Built and optimized SQL databases, integrating them with R/Python scripts for automation, reducing manual processing by 60% and improving data accessibility across teams. 
 - Developed predictive pricing algorithms that led to a 12% average increase in hotel revenue by leveraging historical, competitor and market data.
@@ -17,7 +17,7 @@
 - Led a team of five through full product lifecycle, delivering two major software releases on time and within budget, supporting 30% YoY client growth. 
 - Improved system uptime to 99.9% by proactively monitoring and optimizing AWS EC2 environments, supporting uninterrupted client access to the analytics platform.
 
-## Portfolio Projects
+## Recent Projects
 ### Automatidata - NYC Taxi (Multiple Linear Regression)
 [View Project](https://github.com/am-docs/projects/tree/main/automatidata/automatidata_linear_reg.ipynb)
 
