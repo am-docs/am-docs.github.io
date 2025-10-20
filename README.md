@@ -4,11 +4,12 @@
 
 ## Education 	
 - M.S., Data Science | Illinois Institute of Technology (_exp 2026_)		        		
-- M.B.A., Business Analytics | Illinois Institute of Technology (_exp 2026_)
+- M.B.A., Analytics | Illinois Institute of Technology (_exp 2026_)
 - B.A., Economics | Florida International University (_2015_)
 
 ## Certificates
 - Google Advanced Data Analytics | Coursera (_2025_)
+- Google Business Intelligence Specialization | Coursera (_2025_)
 
 ## Latest Work Experience
 **Managing Partner & Co-Founder @ Hotelitix (_Jan 2019 - Jun 2025_)**
