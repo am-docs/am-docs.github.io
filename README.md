@@ -3,15 +3,17 @@
 #### Technical Skills: Python, R, STATA, SQL, Tableau, AWS
 
 ## Education 			        		
-- M.B.A., Analytics | Illinois Institute of Technology (_exp 2026_)
-- B.A., Economics | Florida International University (_2015_)
+- M.B.A., Business Analytics
+&nbsp;&nbsp;&nbsp;Illinois Institute of Technology (_exp 2026_)
+- B.A., Economics
+&nbsp;&nbsp;&nbsp;Florida International University (_2015_)
 
 ## Certificates
 - Google Advanced Data Analytics | Coursera (_2025_)
 - Google Business Intelligence Specialization | Coursera (_2025_)
 
 ## Latest Work Experience
-**Managing Partner & Co-Founder @ Hotelitix (_Jan 2019 - Jun 2025_)**
+**Data Scientist @ Hotelitix (_Jan 2019 - Jun 2025_)**
 - Architected the company’s core SaaS product from concept to launch, integrating data pipelines, forecasting algorithms, pricing models, and dashboard visualizations. 
 - Built and optimized SQL databases, integrating them with R/Python scripts for automation, reducing manual processing by 60% and improving data accessibility across teams. 
 - Developed predictive pricing algorithms that led to a 12% average increase in hotel revenue by leveraging historical, competitor and market data.
