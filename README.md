@@ -11,7 +11,7 @@
 - Google Business Intelligence Specialization | Coursera (_2025_)
 
 ## Latest Work Experience
-**Data Scientist @ Hotelitix (_Jan 2019 - Jun 2025_)**
+**Data Scientist @ Hotelitix (_Jan 2019 - Jul 2025_)**
 - Architected the company’s core SaaS product from concept to launch, integrating data pipelines, forecasting algorithms, pricing models, and dashboard visualizations. 
 - Built and optimized SQL databases, integrating them with R/Python scripts for automation, reducing manual processing by 60% and improving data accessibility across teams. 
 - Developed predictive pricing algorithms that led to a 12% average increase in hotel revenue by leveraging historical, competitor and market data.
