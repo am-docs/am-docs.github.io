@@ -3,10 +3,8 @@
 #### Technical Skills: Python, R, STATA, SQL, Tableau, AWS
 
 ## Education 			        		
-- M.B.A., Business Analytics |
-&nbsp;&nbsp;&nbsp;Illinois Institute of Technology (_exp 2026_)
-- B.A., Economics |
-&nbsp;&nbsp;&nbsp;Florida International University (_2015_)
+- M.B.A. Business Analytics | Illinois Institute of Technology (_2026_)
+- B.A. Economics | Florida International University (_2015_)
 
 ## Certificates
 - Google Advanced Data Analytics | Coursera (_2025_)
